@@ -1,3 +1,4 @@
 AndroidApp/build/
 AndroidApp/.gradle/
 ML_Model/__pycache__/
+.idea/
