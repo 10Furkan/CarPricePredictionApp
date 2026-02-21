@@ -1,3 +1,26 @@
 <resources>
     <string name="app_name">AndroidApp</string>
+    <string-array name="fuel_types">
+        <item>Petrol</item>
+        <item>Diesel</item>
+    </string-array>
+
+    <string-array name="transmission_types">
+        <item>Manual</item>
+        <item>Automatic</item>
+    </string-array>
+
+    <string-array name="owner">
+        <item>First Owner</item>
+        <item>Second Owner</item>
+        <item>Third Owner</item>
+        <item>Fourth and Above Owner</item>
+        <item>Test Drive Car</item>
+    </string-array>
+
+    <string-array name="seller_types">
+        <item>Individual</item>
+        <item>Dealer</item>
+    </string-array>
+
 </resources>
