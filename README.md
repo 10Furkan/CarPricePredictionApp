@@ -31,6 +31,7 @@ The model predicts the price by considering parameters such as the car's year, m
 2. Open Android Studio and select the `AndroidApp` folder as the project.
 3. Wait for Gradle synchronization to finish and run it on the emulator/device.
 
-2. Gerekli kütüphaneleri kurun: `pip install pandas scikit-learn m2cgen`
-3. `train.py` (veya sizin dosya adınız) dosyasını çalıştırın.
-4. Çıkan yeni `.java` dosyasını Android projesindeki ilgili konuma kopyalayın.
+2. install the necessary libraries: `pip install pandas scikit-learn m2cgen`
+3. `CPPA_ml.py` run the file.
+4. Copy the newly generated `.java` file to the appropriate location in your Android project.
+
